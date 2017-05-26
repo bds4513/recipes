@@ -11,4 +11,3 @@ Ingredients: Dough
 				Cheese
 				mushrooms
 				jalapenos
-				anchovies
